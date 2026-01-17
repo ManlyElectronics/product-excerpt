@@ -1,4 +1,4 @@
-# Manly Product eBay Excerpt
+# Woo Product Excerpt from eBay
 
 Overrides the WooCommerce product excerpt with the **eBay Condition Description** populated by **WP-Lister for eBay**.
 This allows products synced from eBay to display the same condition text on the WooCommerce product page, instead of the default excerpt.
